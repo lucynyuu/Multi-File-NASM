@@ -1,4 +1,4 @@
-%include "song2.inc"
+%include "song.inc"
 extern _Beep@8
 extern _Sleep@4
 
